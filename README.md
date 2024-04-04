@@ -16,4 +16,12 @@
 
 ![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/c324e661-4753-4044-a979-97a9c1b373c2)
 
+### PoC3
+
+#### 1. This is the high level design to handle the streaming data and store the features for both stream data and batch data
+#### 2. This is only for PoC, some details like event notifications and related configurations are not included in the code. 
+
+
+
+![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/3b7fd651-70e5-4095-88ca-58240382abd1)
 
