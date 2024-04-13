@@ -25,3 +25,13 @@
 
 ![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/3b7fd651-70e5-4095-88ca-58240382abd1)
 
+### PoC4
+
+#### 1. This is a simplified process for the infra change and the model/api changes workflow. 
+#### 2. Please note in the production there are much more elements need to be considered like different environments (DEVX, UATX, PRDX), also various tags, dependencies, input parameters, KMS...
+#### 3. Docker image build process can be integrated to the Jenkins or Circle CI instead of the AWS codecommit in this example.
+#### 4. Model size and performance related metrics need to be properly considered.
+
+
+![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/16a8d399-88fc-44ab-8206-834ba46129dc)
+
