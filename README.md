@@ -33,5 +33,6 @@
 #### 4. Model size and performance related metrics need to be properly considered.
 
 
-![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/16a8d399-88fc-44ab-8206-834ba46129dc)
+![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/98960230-220f-44da-ab50-167b7a78b213)
+
 
