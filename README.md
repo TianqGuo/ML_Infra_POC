@@ -18,12 +18,12 @@
 
 ### PoC3
 
-#### 1. This is the high level design to handle the streaming data and store the features for both stream data and batch data
-#### 2. This is only for PoC, some details like event notifications and related configurations are not included in the code. 
+#### 1. This is the high level design to handle the streaming data and store the features for both stream data features and batch data aggregation features.
+#### 2. This is only for PoC, some details like event notifications, IAM, error handling and related configurations are not included in the code. 
 
 
+![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/b2d88baa-5e81-4703-8df5-214c6900fc6d)
 
-![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/3b7fd651-70e5-4095-88ca-58240382abd1)
 
 ### PoC4
 
@@ -33,5 +33,6 @@
 #### 4. Model size and performance related metrics need to be properly considered.
 
 
-![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/16a8d399-88fc-44ab-8206-834ba46129dc)
+![image](https://github.com/TianqGuo/ML_Infra_POC/assets/52896247/98960230-220f-44da-ab50-167b7a78b213)
+
 
